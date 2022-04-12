@@ -1,5 +1,5 @@
-# projekt-ai-pizzeria
-
+# Pizzeria Frontend
+//To run full project firstly run backend project https://github.com/Fludu/Pizzeria-Backend 
 ## Project setup
 ```
 npm install
