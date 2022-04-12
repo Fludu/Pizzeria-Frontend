@@ -1,7 +1,7 @@
 # Pizzeria Frontend
 
 ## Backend+Frontend
-//To run full project with backend, firstly run backend project https://github.com/Fludu/Pizzeria-Backend 
+To run full project with backend, firstly run backend project https://github.com/Fludu/Pizzeria-Backend 
 ## Project setup
 ```
 npm install
